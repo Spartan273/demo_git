@@ -3,4 +3,5 @@
 
 une demo git qui se passe bien.
 
-Modifié depuis github.
+Modifie depuis github.
+Et localement.
