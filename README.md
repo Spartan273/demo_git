@@ -4,4 +4,4 @@
 une demo git qui se passe bien.
 
 Modifie depuis github.
-Et localement.
+Et localement depuis ma machine.
